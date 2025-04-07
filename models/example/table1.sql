@@ -1,0 +1,1 @@
+select * from DBT.DBT_PROJECT.TABLE1;

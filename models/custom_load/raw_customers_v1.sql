@@ -1,0 +1,1 @@
+SELECT * FROM DBT.DBT_PROJECT.raw_customers
